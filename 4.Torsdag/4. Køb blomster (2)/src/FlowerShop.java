@@ -43,7 +43,7 @@ public class FlowerShop {
                         break;
                         case "7" : data.add(this.flowers.get(6));     this.total += 40;  System.out.println("Du valgte: " + this.flowers.get(6));
                         break;
-                        case "8" : data.add(this.flowers.get(7));     this.total += 40;  System.out.println("Du valgte: " + this.flowers.get(7));
+                        case "8" : data.add(this.flowers.get(7));     this.total += 80;  System.out.println("Du valgte: " + this.flowers.get(7));
                         break;
                         case "9" : data.add(this.flowers.get(8));     this.total += 80;  System.out.println("Du valgte: " + this.flowers.get(8));
                         break;
